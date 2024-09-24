@@ -70,5 +70,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=SahasOP&theme=maroongold&no-frame=false&no-bg=false&margin-w=4)
 
 
-<img src="https://raw.githubusercontent.com/SahasOP/SahasOP/output/snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
 

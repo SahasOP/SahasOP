@@ -7,7 +7,7 @@
   
 # 💫 About Me:
 </div>
-<img align="right" alt="GIF" src="https://github.com/SudarshanProCoder/SudarshanProCoder/blob/main/coder.gif?raw=true" width="500" height="340" />
+<img align="right" alt="GIF" src="profilegif.gif" width="500" height="340" />
 🤖 Hi, I'm Sahas Prajapati, a third-year B.Tech student at Shah & Anchor Kutchhi Engineering College, specializing in Computer Science and Engineering. Through my academic journey, I’ve developed a strong foundation in programming languages such as C, C++, Java, and Python.
 
 👉 I have gained hands-on experience in Web Development, working with a diverse set of technologies including HTML, CSS, JavaScript, jQuery, PHP, MySQL, PostgreSQL, Node.js, React.js, and Express.js. My primary focus is on mastering the MERN stack, enabling me to handle both front-end and back-end tasks effectively.
